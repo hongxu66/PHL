@@ -1,0 +1,6 @@
+Multiwfn: 200, 3, 轨道,3,2; 得到轨道文件
+Graphics-Representation, Drawing Method改为CPK, Sphere Scale调小
+Create Rep, Drawing Method设为Isosurface, Isovalue设为0.03, Draw设为Solid Surface，Show设为Isosurface，Coloring Method设为Color ID
+Create Rep, Drawing Method设为Isosurface, Isovalue设为-0.03, Draw设为Solid Surface，Show设为Isosurface，Coloring Method设为Color ID
+Graphics-Colors-Display-Background-White, VMD Main窗口中的Display-Axes-Off, File-Render，下拉框里选Tachyon (internal, in-memory rendering)，然后点Start Rendering
++ 24, - red
